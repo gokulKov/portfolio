@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a12e6cb5.css",
+    "main.css": "/portfolio/static/css/main.8fbc853f.css",
     "main.js": "/portfolio/static/js/main.1cf0cbfe.js",
     "static/media/Gemini_Generated_Image_9wo17v9wo17v9wo1-removebg-preview.png": "/portfolio/static/media/Gemini_Generated_Image_9wo17v9wo17v9wo1-removebg-preview.40ea2376fbadaab39187.png",
     "static/media/Gemini_Generated_Image_jbtgl4jbtgl4jbtgggg-removebg-preview (1).png": "/portfolio/static/media/Gemini_Generated_Image_jbtgl4jbtgl4jbtgggg-removebg-preview (1).877ae7c9171342152904.png",
@@ -17,11 +17,11 @@
     "static/media/trueCounselLogo.svg": "/portfolio/static/media/trueCounselLogo.c82c10289bc5c75919b94f9304c6753a.svg",
     "static/media/logo_white.webp": "/portfolio/static/media/logo_white.1df525dff80b21314c7b.webp",
     "index.html": "/portfolio/index.html",
-    "main.a12e6cb5.css.map": "/portfolio/static/css/main.a12e6cb5.css.map",
+    "main.8fbc853f.css.map": "/portfolio/static/css/main.8fbc853f.css.map",
     "main.1cf0cbfe.js.map": "/portfolio/static/js/main.1cf0cbfe.js.map"
   },
   "entrypoints": [
-    "static/css/main.a12e6cb5.css",
+    "static/css/main.8fbc853f.css",
     "static/js/main.1cf0cbfe.js"
   ]
 }
