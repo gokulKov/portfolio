@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a12e6cb5.css",
+    "main.js": "/portfolio/static/js/main.1cf0cbfe.js",
+    "static/media/Gemini_Generated_Image_9wo17v9wo17v9wo1-removebg-preview.png": "/portfolio/static/media/Gemini_Generated_Image_9wo17v9wo17v9wo1-removebg-preview.40ea2376fbadaab39187.png",
+    "static/media/Gemini_Generated_Image_jbtgl4jbtgl4jbtgggg-removebg-preview (1).png": "/portfolio/static/media/Gemini_Generated_Image_jbtgl4jbtgl4jbtgggg-removebg-preview (1).877ae7c9171342152904.png",
+    "static/media/Gokul kannan Resume.pdf": "/portfolio/static/media/Gokul kannan Resume.8254a3187feba5217741.pdf",
+    "static/media/infinest_logo-removebg-previews-removebg-preview.png": "/portfolio/static/media/infinest_logo-removebg-previews-removebg-preview.aed003f1e9f2cc544019.png",
+    "static/media/paul-agri-logo.jpg": "/portfolio/static/media/paul-agri-logo.e8cbaa3d473ce8e4a953.jpg",
+    "static/media/RENI-LOGO-NEW.jpg": "/portfolio/static/media/RENI-LOGO-NEW.ae2736ea7363cd22e342.jpg",
+    "static/media/finlitiaipro-png-1 (1).png": "/portfolio/static/media/finlitiaipro-png-1 (1).6cbaff2a688508afc7ca.png",
+    "static/media/lo.png": "/portfolio/static/media/lo.032e31c6841590c032bf.png",
+    "static/media/haridvarna-logo.jpg": "/portfolio/static/media/haridvarna-logo.5bf180df59dc0aae7afe.jpg",
+    "static/media/kanakanisargamane-logo-sm-125.png": "/portfolio/static/media/kanakanisargamane-logo-sm-125.afed56358adf701d3cf9.png",
+    "static/media/wt-NISARGA-MANE-LOGO-1.png": "/portfolio/static/media/wt-NISARGA-MANE-LOGO-1.13c1db0551765f6d2c00.png",
+    "static/media/logo-transparent-trim-small.png": "/portfolio/static/media/logo-transparent-trim-small.8904ef0a80f3f08e2249.png",
+    "static/media/trueCounselLogo.svg": "/portfolio/static/media/trueCounselLogo.c82c10289bc5c75919b94f9304c6753a.svg",
+    "static/media/logo_white.webp": "/portfolio/static/media/logo_white.1df525dff80b21314c7b.webp",
+    "index.html": "/portfolio/index.html",
+    "main.a12e6cb5.css.map": "/portfolio/static/css/main.a12e6cb5.css.map",
+    "main.1cf0cbfe.js.map": "/portfolio/static/js/main.1cf0cbfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12e6cb5.css",
+    "static/js/main.1cf0cbfe.js"
+  ]
+}
